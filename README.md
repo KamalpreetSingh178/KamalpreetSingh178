@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KamalpreetSingh178
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Programming starting from my 5th Semester
+- 🌱 I have started Programming starting from my 5th Semester
+- 🌱 I am interested in Machine Learning 
 - 💞️ I’m looking to collaborate on Programming Projects
 - 📫 How to reach me -LinkedIn
 
